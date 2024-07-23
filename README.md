@@ -9,8 +9,7 @@
 - [Example Readmes](#example-readmes)
 - [Related Efforts](#related-efforts)
 - [Maintainers](#maintainers)
-- [Contributing](#contributing)
-- [License](#license)
+  
 
 ## Install
 
@@ -73,7 +72,4 @@ $ standard-readme-spec
 
 
 
-## License
-
-[MIT](LICENSE) © Md Al Mamun
 
