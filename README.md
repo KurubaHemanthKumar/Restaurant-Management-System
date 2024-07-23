@@ -70,9 +70,7 @@ $ standard-readme-spec
 # Prints out the standard-readme spec
 ```
 
-### Contributors
 
-This project exists thanks to my youtube audience who contribute. 
 
 
 ## License
